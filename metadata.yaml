@@ -1,0 +1,29 @@
+_repo: Jacob-Behmen--An-Appreciation_16306
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Whyte, Alexander
+    birthdate: 1836
+    deathdate: 1921
+    gutenberg_agent_id: '734'
+    url: http://www.gutenberg.org/2009/agents/734
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Whyte
+description: ''
+gutenberg_issued: '2005-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16306'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Mysticism -- Germany -- History -- 17th century'
+- !lcsh 'Mystics -- Germany -- Biography'
+- !lcsh 'Böhme, Jakob, 1575-1624'
+title: 'Jacob Behmen: An Appreciation'
+url: http://www.gutenberg.org/ebooks/16306
